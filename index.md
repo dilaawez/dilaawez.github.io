@@ -21,4 +21,4 @@ sudo ./aws/install
 <B><U> Configuration </U></B> 
 </P>
 
-![Image]([src](https://github.com/dilaawez/dilaawez.github.io/blob/patch-1/AWS%20CLI.png))
+![Image](https://github.com/dilaawez/dilaawez.github.io/blob/patch-1/AWS%20CLI.png)
